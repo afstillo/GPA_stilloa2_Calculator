@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GPA_stilloa2_Calculator</string>
+    <string name="gpa1">GPA 1</string>
+    <string name="gpa_calculator">GPA Calculator</string>
+    <string name="gpa_5">GPA 5</string>
+    <string name="gpa_4">GPA 4</string>
+    <string name="gpa_3">GPA 3</string>
+    <string name="gpa_2">GPA 2</string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="reset">reset</string>
+    <string name="blank_field">Please fill out all fields.</string>
+    <string name="instructions">Please fill out all fields with valid grades</string>
+    <string name="clear">clear form</string>
+    <string name="invalid_grade">Highlighted fields contain invalid grades.</string>
+    <string name="grade_5">Grade 5</string>
+
+</resources>
