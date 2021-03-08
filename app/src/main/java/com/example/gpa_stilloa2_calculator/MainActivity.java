@@ -128,6 +128,10 @@ public class MainActivity extends AppCompatActivity {
         Each of these text listeners are the same, they just function on different EditTexts.
         If the button to calculate GPA has been pressed, and any of the EditTexts are modified,
         the background is reset to black and the button and text are reset to their initial states.
+        I realize the intention was probably to check when the EditText comes into focus after the
+        button has been pressed to achieve this, but since this would trigger when the EditText
+        comes into focus rather than when the text is actually changed, I chose to implement
+        the additional challenge this way instead.
          */
 
     }
